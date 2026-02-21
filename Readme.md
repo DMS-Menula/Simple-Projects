@@ -6,7 +6,7 @@ This repository contains **10+ beginner-friendly web development projects** buil
 
 - ✅ HTML5  
 - 🎨 CSS3  
-- ⚡ JavaScript  
+- ⚡ JavaScript   
 
 These projects are perfect for beginners who want to practice and improve their frontend development skills.
 ‎ 
